@@ -1,0 +1,201 @@
+,company,Factset name company
+0,Apple,"Apple, Inc."
+1,Microsoft,Microsoft Corp.
+2,Saudi Aramco,Saudi Ceramic Co.
+3,Alphabet (Google),"Alphabet, Inc."
+4,Amazon,"Amazon.com, Inc."
+5,Berkshire Hathaway,"Berkshire Hathaway, Inc."
+6,NVIDIA,NVIDIA Corp.
+7,Meta Platforms (Facebook),"Meta Platforms, Inc."
+8,Tesla,"Tesla, Inc."
+9,LVMH,LVMH Moët Hennessy Louis Vuitton SE
+10,Visa,"Visa, Inc."
+11,UnitedHealth,"UnitedHealth Group, Inc."
+12,Exxon Mobil,Exxon Mobil Corp.
+13,TSMC,"Taiwan Semiconductor Manufacturing Co., Ltd."
+14,Johnson & Johnson,Johnson & Johnson
+15,Walmart,"Walmart, Inc."
+16,Eli Lilly,Eli Lilly & Co.
+17,Tencent,Tencent Holdings Ltd.
+18,JPMorgan Chase,JPMorgan Chase & Co.
+19,Novo Nordisk,Novo Nordisk A/S
+20,Procter & Gamble,Procter & Gamble Co.
+21,Mastercard,"Mastercard, Inc."
+22,Nestlé,Nestlé SA
+23,Samsung,Samsung Co. Ltd.
+24,Kweichow Moutai,UNKNOWN
+25,Chevron,Chevron Corp.
+26,Merck,Merck KGaA
+27,Home Depot,"The Home Depot, Inc."
+28,Coca-Cola,Coca-Cola HBC AG
+29,Pepsico,"PepsiCo, Inc."
+30,Oracle,Oracle Corp.
+31,Broadcom,"Broadcom, Inc."
+32,Roche,Roche Holding AG
+33,AbbVie,"AbbVie, Inc."
+34,ASML,ASML Holding NV
+35,L'Oréal,L'Oréal SA
+36,ICBC,Industrial & Commercial Bank of China Ltd.
+37,International Holding Company,UNKNOWN
+38,AstraZeneca,AstraZeneca Plc
+39,Hermès,Hermès International SCA
+40,Costco,Costco Wholesale Corp.
+41,Alibaba,Alibaba Group Holding Ltd.
+42,Novartis,Novartis AG
+43,McDonald,McDonald's Corp.
+44,Bank of America,Bank of America Corp.
+45,Pfizer,Pfizer Inc.
+46,Shell,Shell Plc
+47,Reliance Industries,Reliance Industries Ltd.
+48,Thermo Fisher Scientific,"Thermo Fisher Scientific, Inc."
+49,Salesforce,"Salesforce, Inc."
+50,PetroChina,UNKNOWN
+51,Toyota,Toyota Motor Corp.
+52,Abbott Laboratories,Abbott Laboratories
+53,Cisco,"Cisco Systems, Inc."
+54,Nike,"NIKE, Inc."
+55,Agricultural Bank of China,Agricultural Bank of China
+56,China Mobile,UNKNOWN
+57,Walt Disney,The Walt Disney Co.
+58,Linde,Linde Plc
+59,China Construction Bank,UNKNOWN
+60,Accenture,Accenture Plc
+61,T-Mobile US,UNKNOWN
+62,Danaher,Danaher Corp.
+63,Bank of China,UNKNOWN
+64,Comcast,Comcast Corp.
+65,Dior,Christian Dior SE
+66,Nextera Energy,"NextEra Energy, Inc."
+67,Verizon,"Verizon Communications, Inc."
+68,SAP,SAP SE
+69,Adobe,"Adobe, Inc."
+70,AMD,"Advanced Micro Devices, Inc."
+71,CATL,"Contemporary Amperex Technology Co., Ltd."
+72,HSBC,HSBC Holdings Plc
+73,Netflix,"Netflix, Inc."
+74,TotalEnergies,TotalEnergies SE
+75,Texas Instruments,Texas Instruments Incorporated
+76,Philip Morris,"Philip Morris International, Inc."
+77,BHP Group,BHP Group Ltd.
+78,Tata Consultancy Services,UNKNOWN
+79,United Parcel Service,"United Parcel Service, Inc."
+80,Prosus,Naspers Ltd.
+81,Bristol-Myers Squibb,Bristol Myers Squibb Co.
+82,Wells Fargo,Wells Fargo & Co.
+83,Raytheon Technologies,Raytheon Technologies Corp.
+84,Morgan Stanley,Morgan Stanley
+85,Unilever,Unilever Plc
+86,Sanofi,Sanofi
+87,Ping An Insurance,Ping An Insurance (Group) Co. of China Ltd.
+88,China Life Insurance,"New China Life Insurance Co., Ltd."
+89,Royal Bank Of Canada,Royal Bank of Canada
+90,Siemens,Siemens AG
+91,Honeywell,"Honeywell International, Inc."
+92,CM Bank,"China Merchants Bank Co., Ltd"
+93,HDFC Bank,HDFC Bank Ltd.
+94,Anheuser-Busch Inbev,Anheuser-Busch InBev SA/NV
+95,Amgen,"Amgen, Inc."
+96,Starbucks,Starbucks Corp.
+97,AT&T,"AT&T, Inc."
+98,Union Pacific Corporation,Union Pacific Corp.
+99,Intuit,"Intuit, Inc."
+100,Lowe's Companies,"Lowe's Cos., Inc."
+101,Intel,Intel Corp.
+102,ConocoPhillips,ConocoPhillips
+103,Boeing,The Boeing Co.
+104,Keyence,KEYENCE Corp.
+105,AIA,AIA Group Ltd.
+106,Medtronic,Medtronic Plc
+107,QUALCOMM,"QUALCOMM, Inc."
+108,Deutsche Telekom,Deutsche Telekom AG
+109,Sony,Sony Group Corp.
+110,Commonwealth Bank,Commonwealth Bank of Australia
+111,S&P Global,"S&P Global, Inc."
+112,Prologis,"Prologis, Inc."
+113,Lockheed Martin,Lockheed Martin Corp.
+114,Porsche,Porsche Automobil Holding SE
+115,Deere & Company,Deere & Co.
+116,IBM,International Business Machines Corp.
+117,Toronto Dominion Bank,The Toronto-Dominion Bank
+118,Sinopec,Sinopec Shengli Oil Field Dynamic Group Co. Ltd.
+119,American Express,American Express Co.
+120,Elevance Health,"Elevance Health, Inc."
+121,Stryker Corporation,Stryker Corp.
+122,Caterpillar,"Caterpillar, Inc."
+123,BP,BP Plc
+124,NTT (Nippon Telegraph &amp; Telephone),Nippon Telegraph & Telephone Corp.
+125,General Electric,General Electric Co.
+126,Intuitive Surgical,"Intuitive Surgical, Inc."
+127,Goldman Sachs,"The Goldman Sachs Group, Inc."
+128,Inditex,UNKNOWN
+129,Mondelez,"Mondelez International, Inc."
+130,LG Energy Solution,UNKNOWN
+131,Airbus,Airbus SE
+132,Meituan,Meituan
+133,Rio Tinto,Rio Tinto Plc
+134,CSL,CSL Ltd.
+135,BYD,"BYD Co., Ltd."
+136,Diageo,Diageo Plc
+137,Wuliangye Yibin,UNKNOWN
+138,Gilead Sciences,"Gilead Sciences, Inc."
+139,Applied Materials,"Applied Materials, Inc."
+140,Booking Holdings (Booking.com),"Booking Holdings, Inc."
+141,BlackRock,"BlackRock, Inc."
+142,Schneider Electric,Schneider Electric SE
+143,Compagnie Financière Richemont,Compagnie Financière Richemont SA
+144,TAQA,UNKNOWN
+145,American Tower,American Tower Corp.
+146,Air Liquide,Air Liquide SA
+147,Allianz,Allianz SE
+148,ServiceNow,"ServiceNow, Inc."
+149,Analog Devices,"Analog Devices, Inc."
+150,TJX Companies,Companias CIC SA
+151,EssilorLuxottica,EssilorLuxottica SA
+152,Marsh & McLennan Companies,"Marsh & McLennan Cos., Inc."
+153,Vertex Pharmaceuticals,"Vertex Pharmaceuticals, Inc."
+154,Citigroup,"Citigroup, Inc."
+155,China Shenhua Energy,UNKNOWN
+156,CVS Health,CVS Health Corp.
+157,Charles Schwab,The Charles Schwab Corp.
+158,Equinor,Equinox Gold Corp.
+159,Automatic Data Processing,"Automatic Data Processing, Inc."
+160,China Yangtze Power,UNKNOWN
+161,Zoetis,"Zoetis, Inc."
+162,Pinduoduo,"Pinduoduo, Inc."
+163,Chubb,Chubb Ltd.
+164,Regeneron Pharmaceuticals,"Regeneron Pharmaceuticals, Inc."
+165,Altria Group,"Altria Group, Inc."
+166,Southern Company,The Southern Co.
+167,Al Rajhi Bank,Al Rajhi Bank
+168,Canadian National Railway,Canadian National Railway Co.
+169,Iberdrola,Iberdrola SA
+170,CNOOC,UNKNOWN
+171,ICICI Bank,ICICI Bank Ltd.
+172,China Telecom,UNKNOWN
+173,BNP Paribas,BNP Paribas SA
+174,Mercedes-Benz,Mercedes-Benz Group AG
+175,Shopify,"Shopify, Inc."
+176,Progressive,Progressive Corp.
+177,Enbridge,"Enbridge, Inc."
+178,Volkswagen,Volkswagen AG
+179,Mitsubishi UFJ Financial,"Mitsubishi UFJ Financial Group, Inc."
+180,Uber,"Uber Technologies, Inc."
+181,British American Tobacco,British American Tobacco plc
+182,Petrobras,UNKNOWN
+183,Cigna,Cigna Corp.
+184,Canadian Pacific Railway,Canadian Pacific Railway Ltd.
+185,Boston Scientific,Boston Scientific Corp.
+186,Duke Energy,Duke Energy Corp.
+187,HCA Healthcare,"HCA Healthcare, Inc."
+188,Hindustan Unilever,Unilever Plc
+189,Merck KGaA,Merck KGaA
+190,GlaxoSmithKline,GSK Plc
+191,Fast Retailing,"FAST RETAILING CO., LTD."
+192,Postal Savings Bank of China,"Postal Savings Bank of China Co., Ltd."
+193,SABIC,UNKNOWN
+194,KDDI,KDDI Corp.
+195,Fiserv,"Fiserv, Inc."
+196,Kering,Kering SA
+197,Target,Target Corp.
+198,Bank Central Asia,UNKNOWN
+199,Walmex,UNKNOWN
